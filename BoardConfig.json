@@ -1,46 +1,14 @@
 {
-  "ladders": [
-    {
-      "end": 24,
-      "name": "Ladder 1",
-      "start": 6
-    },
-    {
-      "end": 43,
-      "name": "Ladder 2",
-      "start": 20
-    },
-    {
-      "end": 69,
-      "name": "Ladder 3",
-      "start": 48
-    },
-    {
-      "end": 98,
-      "name": "Ladder 4",
-      "start": 77
-    }
-  ],
   "snakes": [
-    {
-      "end": 8,
-      "name": "Snake 1",
-      "start": 29
-    },
-    {
-      "end": 27,
-      "name": "Snake 2",
-      "start": 51
-    },
-    {
-      "end": 60,
-      "name": "Snake 3",
-      "start": 79
-    },
-    {
-      "end": 71,
-      "name": "Snake 4",
-      "start": 93
-    }
+    {"name": "Snake 1", "start": 29, "end": 8},
+    {"name": "Snake 2", "start": 51, "end": 27},
+    {"name": "Snake 3", "start": 79, "end": 60},
+    {"name": "Snake 4", "start": 93, "end": 71}
+  ],
+  "ladders": [
+    {"name": "Ladder 1", "start": 6, "end": 24},
+    {"name": "Ladder 2", "start": 20, "end": 43},
+    {"name": "Ladder 3", "start": 48, "end": 69},
+    {"name": "Ladder 4", "start": 77, "end": 98}
   ]
 }
